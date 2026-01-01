@@ -11,6 +11,11 @@ A ted compose requires the author define three main parts before running an eval
 - task bindings (how to run the task worker)
 - collection of observations (pre- and post-state and output aka test examples) to run the criteria against
 
+## Aims
+
+- The short term aim is to make it simpler and more expressive for developers to evaluate AI agents.
+- The long term aim is for people with zero knowledge of how AI works to control the criteria of good AI behavior.
+
 ## Why is a single evaluation YAML such a big deal?
 
 A single declaritive YAML is easier to standardize and share than code of many different frameworks.
