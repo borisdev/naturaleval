@@ -1,4 +1,4 @@
-# TED Compose: Task Evaluation Definition Composition
+# TED Compose (Task Evaluation Definition Composition)
 
 TED Compose is a tool that allows the following
 
