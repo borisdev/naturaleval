@@ -1,6 +1,6 @@
 # Natural Eval: Natural Language AI Evaluation
 
-Natural Eval uses controlled natural language to define a single YAML file, `eval.yaml`, that
+Natural Eval uses a controlled natural language to define a single YAML file, `eval.yaml`, that
 represents an executable AI evaluation workflow.
 
 Potential usage:
